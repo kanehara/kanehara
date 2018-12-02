@@ -1,0 +1,17 @@
+{
+  "name": "winston-logger",
+  "version": "1.0.0",
+  "description": "Winston logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kanehara",
+  "license": "MIT",
+  "peerDependencies": {
+    "winston": "^3.0.0"
+  },
+  "devDependencies": {
+    "winston": "^3.1.0"
+  }
+}
