@@ -1,0 +1,28 @@
+{
+  "name": "@kanehara/apollo-server",
+  "version": "1.0.1",
+  "description": "Template for an apollo server",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_PATH=. node index.js",
+    "watch": "NODE_PATH=. nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kanehara",
+  "license": "ISC",
+  "dependencies": {
+    "@kanehara/winston-logger": "^0.0.6",
+    "apollo-server": "^2.2.5",
+    "dotenv": "^6.1.0",
+    "graphql": "^14.0.2",
+    "graphql-subscriptions": "^1.0.0",
+    "graphql-tools": "^4.0.3",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
