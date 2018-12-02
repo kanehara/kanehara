@@ -1,6 +1,6 @@
 {
   "name": "@kanehara/winston-logger",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Winston logger",
   "main": "index.js",
   "scripts": {
