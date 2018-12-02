@@ -1,6 +1,6 @@
 {
   "name": "@kanehara/apollo-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Template for an apollo server",
   "main": "index.js",
   "scripts": {
